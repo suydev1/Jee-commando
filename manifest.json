@@ -1,0 +1,9 @@
+{
+  "name": "AIR 1 Command Center",
+  "short_name": "AIR1",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f2027",
+  "theme_color": "#0f2027",
+  "icons": []
+}
